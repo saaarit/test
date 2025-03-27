@@ -2,7 +2,6 @@ import requests
 import base64
 import json
 import datetime
-import datetime
 import ecdsa
 import hashlib
 
